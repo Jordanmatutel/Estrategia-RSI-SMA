@@ -1,5 +1,5 @@
 #Este codigo fue hecho con el fin de hacer pruebas de programacion.
-#El codigo no es necesariamente lucrativo
+#El codigo no es necesariamente lucrativo.
 #El error que se presenta se puede arreglar añadiendo tu API al codigo
 #El creador del codigo no se hace responsable por las consecuencias que este codigo pueda traer
 #Este codigo necesita un capital inicial de 100 dolares y re invierte la ganancia
